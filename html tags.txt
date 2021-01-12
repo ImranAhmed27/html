@@ -1,0 +1,30 @@
+HTML TAG    NAME                         USAGE
+
+<!--        comment                      Used for comments
+<a -        anchor                       To visit side
+<b>         bold                         Bolding text
+<big>       big(text)                    Big text
+<small>     small(text)                  small text
+<body>      body of HTML document        Content of page
+<center>    center                       Center your content
+<dd>        definition description       Meaning of term
+<font>      font                         Letters
+<form>      form                         To type name,value,email
+<head>      heading of HTML document     Heading of Document 
+<h1>        heading 1                    First heading
+<html>      hypertext markup language    Content of Web page
+<img>       image                        To show an image
+<input>     input field                  To type required text in form
+<li>        list item                    Keeping in order
+<i>         italic                       Italic text style
+<br>        line break                   Next line
+<ol>        ordered list                 List of ordered
+<option>    listbox option               Selecting list option
+<p>         paragraph                    This is displaying the use of the paragraph tag
+<table>     table                        Showing in borders
+<td>        table data                   Table text
+<th>        table header                 Heading of table
+<tr>        table row                    Table in order
+<title>     document title               Title of web page              
+<ul>        unordered list               Sublist
+<u>         underline                    Underlining the text
